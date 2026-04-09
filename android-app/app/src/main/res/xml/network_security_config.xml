@@ -3,7 +3,7 @@
     <domain-config cleartextTrafficPermitted="true">
         <domain includeSubdomains="true">oss-cn-beijing.aliyuncs.com</domain>
         <domain includeSubdomains="true">aliyuncs.com</domain>
-        <domain includeSubdomains="true">100.64.87.9</domain>
+        <domain includeSubdomains="true">你的ip地址</domain>
         <domain includeSubdomains="true">localhost</domain>
         <domain includeSubdomains="true">127.0.0.1</domain>
     </domain-config>
