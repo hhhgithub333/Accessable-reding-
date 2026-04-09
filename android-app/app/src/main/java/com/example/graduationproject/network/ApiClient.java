@@ -4,7 +4,7 @@ import okhttp3.OkHttpClient;
 import java.util.concurrent.TimeUnit;
 
 public class ApiClient {
-    public static final String BASE_URL = "http://100.64.87.9:8000";
+    public static final String BASE_URL = "http://localhost:8000";
     private static OkHttpClient client;
 
     public static OkHttpClient getClient() {
